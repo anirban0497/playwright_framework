@@ -1,0 +1,43 @@
+- generic [ref=f3e262]:
+  - generic [ref=f3e263]:
+    - generic [ref=f3e264]:
+      - generic [ref=f3e265]:
+        - generic:
+          - generic:
+            - generic [ref=f3e266]:
+              - button "Open Menu" [ref=f3e267] [cursor=pointer]
+              - img "Open Menu" [ref=f3e268]
+            - generic [ref=f3e291]:
+              - navigation [ref=f3e293]:
+                - link "All Items" [active] [ref=f3e294] [cursor=pointer]:
+                  - /url: "#"
+                - link "About" [ref=f3e295] [cursor=pointer]:
+                  - /url: https://saucelabs.com/
+                - link "Logout" [ref=f3e296] [cursor=pointer]:
+                  - /url: "#"
+                - link "Reset App State" [ref=f3e297] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f3e298]:
+                - button "Close Menu" [ref=f3e299] [cursor=pointer]
+                - img "Close Menu" [ref=f3e300]
+        - generic [ref=f3e269]: Swag Labs
+      - generic [ref=f3e273]: "Checkout: Complete!"
+    - generic [ref=f3e275]:
+      - img "Pony Express" [ref=f3e276]
+      - heading "Thank you for your order!" [level=2] [ref=f3e277]
+      - generic [ref=f3e278]: Your order has been dispatched, and will arrive just as fast as the pony can get there!
+      - generic [ref=f3e279]:
+        - button "Back Home" [ref=f3e280] [cursor=pointer]
+        - button "Generate PDF order" [ref=f3e281] [cursor=pointer]
+  - contentinfo [ref=f3e282]:
+    - list [ref=f3e283]:
+      - listitem [ref=f3e284]:
+        - link "Twitter" [ref=f3e285] [cursor=pointer]:
+          - /url: https://twitter.com/saucelabs
+      - listitem [ref=f3e286]:
+        - link "Facebook" [ref=f3e287] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=f3e288]:
+        - link "LinkedIn" [ref=f3e289] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=f3e290]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
